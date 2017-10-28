@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Explorador de Lugares</string>
+    <string name="show_map_string">Show Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="CLIENT_ID">2G50RKXQVQ4GQGNSWNVNBEVXTUYOVR0GKXAZRUSIIXWJZ1QR</string>
+    <string name="CLIENT_SECRET">UPTVKPK2CK0CROZRUXRRYXAVOEBYBTFG2LTMELFAIYDIPZ0F</string>
+    <string name="current_position">Tú</string>
+    <string name="text_map_menu_button">Mostrar en mapa</string>
+    <string name="waiting_text">Esperando información</string>
+    <string name="noDataFound">
+        No se ha encontrado información:\n
+        Sin acceso a internet ni datos guardados.\n
+        Conectese a internet y reinicie la applicación. :D
+
+    </string>
+    <string name="noInternetText">No hay conexión a internet</string>
+    <string name="noLocalizationPermissions">No tienes permisos de ubicación</string>
+</resources>
